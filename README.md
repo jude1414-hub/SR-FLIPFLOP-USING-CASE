@@ -60,3 +60,4 @@ endmodule
 ![Screenshot 2025-05-05 210009](https://github.com/user-attachments/assets/a0e48353-1aa5-47af-a99a-30c390d3540b)
 
 **RESULTS**
+ Program for SR flipflop was verified in quartus using Verilog programming.
